@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.css": "postcss"
+    },
+    "path-autocomplete.pathMappings": {
+        "/": [
+            "${folder}/",
+            "${folder}/public/"
+        ]
+    }
+}
